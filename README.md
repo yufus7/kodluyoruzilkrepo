@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.com) Front-End Eğitiminde oluşturduğu
 
 ![Örnek resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
----
+
 
 ## Installation
 
@@ -14,7 +14,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.com) Front-End Eğitiminde oluşturduğu
  git clone https://github.com/yufus7/kodluyoruzilkrepo.git
 ```
 
----
 
 ## Usage
 
@@ -27,13 +26,12 @@ cd kodluyoruzilkrepo
 code .
 ```
 
----
 
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
----
+
 
 ## License
 
